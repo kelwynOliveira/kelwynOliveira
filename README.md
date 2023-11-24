@@ -31,8 +31,6 @@ If you want to see my stats at GitHub please use [gh-stats.md](gh-stats.md).
 
 I'm available online at:
 
-<br/>
-
 <a href="https://www.linkedin.com/in/kelwynoliveira/" style="display:flex; align-items: center;">
   <img alt="Kelwyn Oliveira | LinkedIn" width="30px" src="./assets/linkedin.svg" /><span>LinkedIn</span></code>
 </a>
