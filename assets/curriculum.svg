@@ -1,0 +1,14 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_71_20" fill="white">
+<rect x="12" y="7" width="76" height="90" rx="3"/>
+</mask>
+<rect x="12" y="7" width="76" height="90" rx="3" fill="#FFFEFE" stroke="#1222AD" stroke-width="8" mask="url(#path-1-inside-1_71_20)"/>
+<rect x="24" y="17" width="52" height="68" stroke="#1222AD" stroke-width="4"/>
+<mask id="path-3-inside-2_71_20" fill="white">
+<rect x="35" y="3" width="30" height="17" rx="3"/>
+</mask>
+<rect x="35" y="3" width="30" height="17" rx="3" fill="white" stroke="#1222AD" stroke-width="8" stroke-linejoin="round" mask="url(#path-3-inside-2_71_20)"/>
+<line x1="34" y1="61" x2="66" y2="61" stroke="#1222AD" stroke-width="4"/>
+<line x1="34" y1="71" x2="60" y2="71" stroke="#1222AD" stroke-width="4"/>
+<path d="M60 51H40L40.5 50L41.5 48.5L43.5 46.5L46 45L47.5 44V42.5L47 41.5L46.5 40.5L46 39.5L45.5 39L45 37.5L44.5 36V34.5L45 33L45.5 32L46 31L47 30L47.5 29.5L48.5 29H49.5H51L52.5 29.5L53.5 30L54.5 31L55 32L55.5 34V36L55 37.5L54.5 39L53.5 40.5L53 41.5L52.5 42.5V44L54.5 45L56.5 46.5L58.5 48L59.5 49.5L60 51Z" fill="#1222AD" stroke="#1222AD"/>
+</svg>
