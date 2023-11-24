@@ -27,17 +27,20 @@ If you want to see my stats at GitHub please use [gh-stats.md](gh-stats.md).
 </center>
 
 <br/>
+<br/>
 
 I'm available online at:
+
+<br/>
 
 <a href="https://www.linkedin.com/in/kelwynoliveira/" style="display:flex; align-items: center;">
   <img alt="Kelwyn Oliveira | LinkedIn" width="30px" src="./assets/linkedin.svg" /><span>LinkedIn</span></code>
 </a>
-
+<br/>
 <a href="https://youtube.com/@nolukai" style="display:flex; align-items: center;">
   <img alt="Kelwyn Oliveira | YouTube" width="30px" src="./assets/youtube.svg" /><span>YouTube</span>
 </a>
-
+<br/>
 <a href="https://kelwynoliveira.github.io/Portfolio/curriculum/"  style="display:flex; align-items: center;">
   <img alt="Kelwyn Oliveira | Curriculum" width="30px" src="./assets/curriculum.svg"/><span>Curriculum</span>
 </a>
