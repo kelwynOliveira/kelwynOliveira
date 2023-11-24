@@ -24,6 +24,7 @@ If you want to see my stats at GitHub please use [gh-stats.md](gh-stats.md).
 <code><img height="30" alt="Cpp" src="./assets/cpp.svg">C++</code>
 <code><img height="30" alt="HTML" src="./assets/html.svg">HTML5</code>
 <code><img height="30" alt="CSS" src="./assets/css.svg">CSS3</code>
+<code><img height="30" alt="SASS" src="./assets/sass.svg">Sass</code>
 </div>
 
 <br/>
@@ -42,5 +43,5 @@ I'm available online at:
 </a>
 <br/>
 <a href="https://kelwynoliveira.github.io/Portfolio/curriculum/"  style="display:flex; align-items: center;">
-  <img alt="Kelwyn Oliveira | Curriculum" width="30px" src="./assets/curriculum.svg"/><span>Curriculum</span>
+  <img alt="Kelwyn Oliveira | Curriculum" width="30px" src="./assets/curriculum.svg"/><span>Resume</span>
 </a>
