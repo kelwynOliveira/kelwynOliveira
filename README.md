@@ -24,6 +24,7 @@ If you want to see my stats at GitHub please use [gh-stats.md](gh-stats.md).
 <code><img height="30" alt="Cpp" src="./assets/cpp.svg">C++</code>
 <code><img height="30" alt="HTML" src="./assets/html.svg">HTML5</code>
 <code><img height="30" alt="CSS" src="./assets/css.svg">CSS3</code>
+<code><img height="30" alt="SASS" src="./assets/sass.svg">Sass</code>
 </div>
 
 <br/>
