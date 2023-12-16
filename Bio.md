@@ -2,7 +2,7 @@ Kelwyn is a Tech Lead at [Instituto de Pesquisa Eldorado](https://www.eldorado.o
 
 Graduated in Control and Automation Engineering from [UEA](https://www2.uea.edu.br/), with an exchange in Mechatronics Engineering at [EIGSI - FR](https://www.eigsi.fr/) and a Technician in Mechatronics from [IFAM](http://www2.ifam.edu.br/campus/cmdi).
 
-<a href="https://kelwynoliveira.github.io/Portfolio/curriculum/">
+<a href="https://kelwynoliveira.github.io/Portfolio/resume/">
   <img alt="Kelwyn Oliveira | Curriculum" width="30px" src="./assets/curriculum.svg"/><span>Curriculum</span>
 </a>
 

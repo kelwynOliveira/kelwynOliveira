@@ -8,7 +8,7 @@ Hi! I'm Kelwyn 👋
 
 I have a webpage to show my achivements at [kelwyn.me](https://kelwynoliveira.github.io/Portfolio/) and a blog at [nolukai.com](https://kelwynoliveira.github.io/nolukai/) to talk about development and things I've learned.
 
-If yout want my bio please go to [Bio.md](Bio.md).
+If you want my bio please go to [Bio.md](Bio.md).
 
 If you want to see my stats at GitHub please use [gh-stats.md](gh-stats.md).
 
@@ -41,6 +41,6 @@ I'm available online at:
   <img alt="Kelwyn Oliveira | YouTube" width="30px" src="./assets/youtube.svg" /><span>YouTube</span>
 </a>
 <br/>
-<a href="https://kelwynoliveira.github.io/Portfolio/curriculum/"  style="display:flex; align-items: center;">
+<a href="https://kelwynoliveira.github.io/Portfolio/resume/"  style="display:flex; align-items: center;">
   <img alt="Kelwyn Oliveira | Curriculum" width="30px" src="./assets/curriculum.svg"/><span>Curriculum</span>
 </a>
